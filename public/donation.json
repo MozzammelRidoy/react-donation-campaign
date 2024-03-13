@@ -1,0 +1,118 @@
+[
+    {
+        "id": 1,
+        "category": "Health",
+        "title": "Medical Supplies for Children",
+        "description": "Provide essential medical supplies for children in need to ensure their health and well-being. Your donation will help prevent illness and save lives, giving these children a chance for a brighter future. With proper medical care, they can thrive and pursue their dreams.",
+        "color": "blue",
+        "image": "https://i.postimg.cc/vB4pQNnm/doctors-talking-with-young-patient.jpg",
+        "donate_price": 250
+    },
+    {
+        "id": 2,
+        "category": "Education",
+        "title": "Good Education",
+        "description": "Help underprivileged students get proper school uniforms to improve their confidence and attendance. By donating, you support their access to education, breaking the cycle of poverty and empowering them for a better tomorrow. Every uniform received means a child can focus on learning without worrying about clothing.",
+        "color": "red",
+        "image": "https://i.postimg.cc/6qTycwFh/group-children-with-female-teacher-walking-school-corridor.jpg",
+        "donate_price": 200
+    },
+    {
+        "id": 3,
+        "category": "Food",
+        "title": "Meal Kits for Families in Need",
+        "description": "Provide meal kits to families facing food insecurity, ensuring they have access to nutritious meals. Your donation helps alleviate hunger and promotes better health among vulnerable communities. With your support, families can focus on other essential needs, such as education and employment, breaking the cycle of poverty.",
+        "color": "green",
+        "image": "https://i.postimg.cc/KvQrNr4G/close-up-people-holding-apples-bag.jpg",
+        "donate_price": 300
+    },
+    { 
+        "id": 4,
+        "category": "Clothing",
+        "title": "Winter Clothing Drive",
+        "description": "Donate warm clothing to help those in need stay warm during winter, protecting them from harsh weather. Your contribution provides comfort and dignity to individuals experiencing homelessness or financial hardship. With a winter coat, hat, and gloves, they can brave the cold and face each day with warmth and resilience.",
+        "color": "blue",
+        "image": "https://i.postimg.cc/KjG6L8k0/group-volunteers-checking-clothes.webp",
+        "donate_price": 350
+    },
+
+   
+    
+   
+    {
+        "id": 7,
+        "category": "Food",
+        "title": "Emergency Food Packs",
+        "description": "Provide meal kits to families facing food insecurity, ensuring they have access to nutritious meals. Your donation helps alleviate hunger and promotes better health among vulnerable communities. With your support, families can focus on other essential needs, such as education and employment, breaking the cycle of poverty.",
+        "color": "green",
+        "image": "https://i.postimg.cc/KvQrNr4G/close-up-people-holding-apples-bag.jpg",
+        "donate_price": 250
+    },
+    {
+        "id": 8,
+        "category": "Clothing",
+        "title": "Summer Clothing Drive",
+        "description": "Donate warm clothing to help those in need stay warm during winter, protecting them from harsh weather. Your contribution provides comfort and dignity to individuals experiencing homelessness or financial hardship. With a winter coat, hat, and gloves, they can brave the cold and face each day with warmth and resilience.",
+        "color": "blue",
+        "image": "https://i.postimg.cc/KjG6L8k0/group-volunteers-checking-clothes.webp",
+        "donate_price": 200
+    },
+    {
+        "id": 6,
+        "category": "Education",
+        "title": "Books for Rural Schools",
+        "description": "Help underprivileged students get proper school uniforms to improve their confidence and attendance. By donating, you support their access to education, breaking the cycle of poverty and empowering them for a better tomorrow. Every uniform received means a child can focus on learning without worrying about clothing.",
+        "color": "red",
+        "image": "https://i.postimg.cc/6qTycwFh/group-children-with-female-teacher-walking-school-corridor.jpg",
+        "donate_price": 150
+    },
+    {
+        "id": 5,
+        "category": "Health",
+        "title": "Medicine Fund for Elderly",
+        "description": "Provide essential medical supplies for children in need to ensure their health and well-being. Your donation will help prevent illness and save lives, giving these children a chance for a brighter future. With proper medical care, they can thrive and pursue their dreams.",
+        "color": "blue",
+        "image": "https://i.postimg.cc/vB4pQNnm/doctors-talking-with-young-patient.jpg",
+        "donate_price": 400
+    },
+   
+   
+    {
+        "id": 12,
+        "category": "Clothing",
+        "title": "Baby Clothes Donation",
+        "description": "Donate warm clothing to help those in need stay warm during winter, protecting them from harsh weather. Your contribution provides comfort and dignity to individuals experiencing homelessness or financial hardship. With a winter coat, hat, and gloves, they can brave the cold and face each day with warmth and resilience.",
+        "color": "blue",
+        "image": "https://i.postimg.cc/KjG6L8k0/group-volunteers-checking-clothes.webp",
+        "donate_price": 150
+    },
+    {
+        "id": 10,
+        "category": "Education",
+        "title": "Laptops for Students",
+        "description": "Help underprivileged students get proper school uniforms to improve their confidence and attendance. By donating, you support their access to education, breaking the cycle of poverty and empowering them for a better tomorrow. Every uniform received means a child can focus on learning without worrying about clothing.",
+        "color": "red",
+        "image": "https://i.postimg.cc/6qTycwFh/group-children-with-female-teacher-walking-school-corridor.jpg",
+        "donate_price": 300
+    },
+    {
+        "id": 9,
+        "category": "Health",
+        "title": "Dental Care ",
+        "description": "Provide essential medical supplies for children in need to ensure their health and well-being. Your donation will help prevent illness and save lives, giving these children a chance for a brighter future. With proper medical care, they can thrive and pursue their dreams.",
+        "color": "blue",
+        "image": "https://i.postimg.cc/vB4pQNnm/doctors-talking-with-young-patient.jpg",
+        "donate_price": 500
+    },
+    
+   
+    {
+        "id": 11,
+        "category": "Food",
+        "title": "Nutrition Program for Children",
+        "description": "Provide meal kits to families facing food insecurity, ensuring they have access to nutritious meals. Your donation helps alleviate hunger and promotes better health among vulnerable communities. With your support, families can focus on other essential needs, such as education and employment, breaking the cycle of poverty.",
+        "color": "green",
+        "image": "https://i.postimg.cc/KvQrNr4G/close-up-people-holding-apples-bag.jpg",
+        "donate_price": 500
+    }
+]
